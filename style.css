@@ -1,0 +1,61 @@
+
+.titulo
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+tr
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.dom
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 60px;
+  font-weight: 100;
+  text-align: center;
+  color: red;
+}
+
+.domt
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  font-weight: 100;
+  text-align: center;
+  color: red;
+}
+
+.dia
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 60px;
+  font-weight: 100;
+  text-align: center;
+}
+
+.diat
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  font-weight: 100;
+  text-align: center;
+}
